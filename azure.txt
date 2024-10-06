@@ -1,0 +1,24 @@
+
+Steps for Creating a Free Cloud Account
+1.Visited the Azure website: 
+    • Went to the official Microsoft Azure site at https://azure.microsoft.com.
+2.Started the account creation process: 
+    • Clicked the "Start free" button on the homepage, which took me to the sign-up page for a free Azure account.
+3.Logged in with my Microsoft account: 
+    • Signed in using my existing Microsoft account credentials.
+4.Entered contact information: 
+    • Filled in my personal details, including full name, country, and phone   number.
+5.Verified identity:
+    • Chose to verify my identity through SMS. 
+    • Received a verification code via text and entered it to complete the  process.
+6.Submitted payment details:
+    • Provided my debit card information for identity verification. 
+    • Azure made a small authorization charge that was later refunded.
+7.Accepted terms and conditions: 
+    • Read through and accepted the Microsoft Azure Terms and Conditions as well as the Privacy Policy.
+    • Agreed to the terms and clicked the sign-up button.
+8.Finished the setup:
+    • After completing all the steps, my Azure account was successfully created, and I was redirected to the Azure portal.
+
+
+
